@@ -1,0 +1,6 @@
+{
+  "name": "Padel Ranking",
+  "description": "Aplicación de clasificación y ranking de pádel con ascensos y descensos automáticos entre divisiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
